@@ -59,6 +59,10 @@ Contraseña para todos: `Password123!`
 | Estudiante | estudiante1@unilab.edu |
 | Externo | externo@unilab.edu |
 
+## Documentación
+
+Guía completa para colaboradores (clonación, BD, migraciones, seed y consumo desde frontend): **[docs/README.md](docs/README.md)**
+
 ## Postman
 
 Importa `docs/postman_collection.json` y `docs/postman_environment.json`. Ejecuta **Iniciar sesión (Administrador)** para guardar el token automáticamente.
